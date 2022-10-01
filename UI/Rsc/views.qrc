@@ -1,0 +1,7 @@
+<!--<!DOCTYPE RCC>-->
+<!--<RCC version="1.0"/>-->
+<RCC>
+<qresource prefix="Views">
+        <file alias="MainView.qml">Views/MainView.qml</file>
+</qresource>
+</RCC>

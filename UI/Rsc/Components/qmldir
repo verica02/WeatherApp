@@ -1,0 +1,4 @@
+module Components
+TextBox 1.0 TextBox.qml
+InfoBox 1.0 InfoBox.qml
+FlyingBox 1.0 FlyingBox.qml

@@ -1,0 +1,33 @@
+<!--<!DOCTYPE RCC>-->
+<!--<RCC version="1.0"/>-->
+<RCC>
+<qresource prefix="Icons">
+        <file alias="cloudiness_icon">Icons/cloudiness_icon</file>
+        <file alias="humidity_icon">Icons/humidity_icon</file>
+        <file alias="wind_icon">Icons/wind_icon</file>
+        <file alias="pressure_icon">Icons/pressure_icon</file>
+
+        <file alias="01n">Icons/01n</file>
+        <file alias="01d">Icons/01d</file>
+        <file alias="02d">Icons/02d</file>
+        <file alias="02n">Icons/02n</file>
+        <file alias="03d">Icons/03d</file>
+        <file alias="03n">Icons/03n</file>
+        <file alias="04d">Icons/04d</file>
+        <file alias="04n">Icons/04n</file>
+        <file alias="09n">Icons/09n</file>
+        <file alias="09d">Icons/09d</file>
+        <file alias="10d">Icons/10d</file>
+        <file alias="10n">Icons/10n</file>
+        <file alias="11d">Icons/11d</file>
+        <file alias="11n">Icons/11n</file>
+        <file alias="13d">Icons/13d</file>
+        <file alias="13n">Icons/13n</file>
+        <file alias="50d">Icons/50d</file>
+        <file alias="50n">Icons/50n</file>
+
+        <file alias="invalid_view_image">Icons/invalid_view_image</file>
+        <file alias="greetings_view_image">Icons/greetings_view_image</file>
+        <file alias="background">Icons/background</file>
+</qresource>
+</RCC>

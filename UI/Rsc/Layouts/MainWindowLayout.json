@@ -1,0 +1,7 @@
+{
+    "ButtonsLabels" : {
+       "OkButton" : "OK",
+        "QuitButton" : "QUIT"
+    },
+    "TextFieldFilling" : "Insert Text..."
+}

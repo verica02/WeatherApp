@@ -1,0 +1,5 @@
+<RCC>
+<qresource>
+    <file alias="city_codes">NVData/city_codes.json</file>
+</qresource>
+</RCC>
